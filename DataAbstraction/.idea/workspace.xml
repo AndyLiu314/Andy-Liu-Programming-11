@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dd7dbe72-5058-421f-92b5-e3f509cfe8e2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectId" id="1YmNi4UX99n8S0HSTSqmwYTOPVu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1534266937870" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RunManager" selected="JUnit.IntegerSetTests.testInsertNotThere">
+    <configuration name="IntegerSetUsage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IntegerSetUsage" />
+      <module name="IntegerTestStartup" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IntegerSetTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="IntegerTestStartup" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="IntegerSetTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IntegerSetTests.testInsertAlreadyThere" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="IntegerTestStartup" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="IntegerSetTests" />
+      <option name="METHOD_NAME" value="testInsertAlreadyThere" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IntegerSetTests.testInsertNotThere" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="IntegerTestStartup" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="IntegerSetTests" />
+      <option name="METHOD_NAME" value="testInsertNotThere" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.IntegerSetUsage" />
+      <item itemvalue="JUnit.IntegerSetTests.testInsertNotThere" />
+      <item itemvalue="JUnit.IntegerSetTests" />
+      <item itemvalue="JUnit.IntegerSetTests.testInsertAlreadyThere" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.IntegerSetTests.testInsertNotThere" />
+        <item itemvalue="JUnit.IntegerSetTests.testInsertAlreadyThere" />
+        <item itemvalue="Application.IntegerSetUsage" />
+        <item itemvalue="JUnit.IntegerSetTests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dd7dbe72-5058-421f-92b5-e3f509cfe8e2" name="Default Changelist" comment="" />
+      <created>1533743304685</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1533743304685</updated>
+      <workItem from="1533743348288" duration="2241000" />
+      <workItem from="1534172818547" duration="34000" />
+      <workItem from="1534172979481" duration="1454000" />
+      <workItem from="1534259755232" duration="5186000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="8915000" />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="93" y="93" width="1095" height="495" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1583557371664">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="93" y="93" width="1095" height="495" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1280.680@0.0.1280.680" timestamp="1583557371664" />
+    <state x="523" y="236" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1583544065100">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="523" y="236" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1280.680@0.0.1280.680" timestamp="1583544065100" />
+    <state x="478" y="81" key="FileChooserDialogImpl" timestamp="1583555282707">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="478" y="81" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1583555282707" />
+    <state width="1237" height="2" key="GridCell.Tab.0.bottom" timestamp="1583557701140">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="2" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1583557701140" />
+    <state width="1237" height="2" key="GridCell.Tab.0.center" timestamp="1583557701140">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="2" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1583557701140" />
+    <state width="1237" height="2" key="GridCell.Tab.0.left" timestamp="1583557701140">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="2" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1583557701140" />
+    <state width="1237" height="2" key="GridCell.Tab.0.right" timestamp="1583557701140">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="2" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1583557701140" />
+    <state x="283" y="0" width="914" height="680" key="SettingsEditor" timestamp="1583555770278">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="283" y="0" width="914" height="680" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1583555770278" />
+    <state x="631" y="300" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1583555759789">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="631" y="300" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1280.680@0.0.1280.680" timestamp="1583555759789" />
+    <state x="336" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1583543995389">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="336" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1583543995389" />
+  </component>
+</project>
