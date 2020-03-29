@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ffe3285e-9a37-421b-b6aa-a586e850fc4b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectId" id="1ZSoGwU5P6k7pKHFFlYUIsSpTbF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1534441994050" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RunManager" selected="JUnit.MethodTest">
+    <configuration name="usage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="usage" />
+      <module name="DataAbstractionAssignment" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MethodTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DataAbstractionAssignment" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MethodTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MethodTest.testDepositNegativeNumber" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DataAbstractionAssignment" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MethodTest" />
+      <option name="METHOD_NAME" value="testDepositNegativeNumber" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MethodTest.testDepositSaving" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DataAbstractionAssignment" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MethodTest" />
+      <option name="METHOD_NAME" value="testDepositSaving" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MethodTest.testWithdrawNegativeNumber" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DataAbstractionAssignment" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MethodTest" />
+      <option name="METHOD_NAME" value="testWithdrawNegativeNumber" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MethodTest" />
+        <item itemvalue="Application.usage" />
+        <item itemvalue="JUnit.MethodTest.testDepositNegativeNumber" />
+        <item itemvalue="JUnit.MethodTest.testWithdrawNegativeNumber" />
+        <item itemvalue="JUnit.MethodTest.testDepositSaving" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ffe3285e-9a37-421b-b6aa-a586e850fc4b" name="Default Changelist" comment="" />
+      <created>1534438831276</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1534438831276</updated>
+      <workItem from="1534438843771" duration="3138000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3138000" />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="360" y="11" key="#Main" timestamp="1585181847343">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="360" y="11" key="#Main/0.0.1280.680@0.0.1280.680" timestamp="1585181847343" />
+    <state x="233" y="0" key="#Notifications" timestamp="1584841799857">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="0" key="#Notifications/0.0.1280.680@0.0.1280.680" timestamp="1584841799857" />
+    <state x="233" y="0" key="#Project_Structure" timestamp="1585346668532">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="0" key="#Project_Structure/0.0.1280.680@0.0.1280.680" timestamp="1585346668532" />
+    <state x="360" y="11" width="575" height="659" key="#Usage" timestamp="1585181872165">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="360" y="11" width="575" height="659" key="#Usage/0.0.1280.680@0.0.1280.680" timestamp="1585181872165" />
+    <state x="93" y="93" width="1095" height="495" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1585517318843">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="93" y="93" width="1095" height="495" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1280.680@0.0.1280.680" timestamp="1585517318843" />
+    <state x="490" y="229" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1584841790680">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="490" y="229" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1280.680@0.0.1280.680" timestamp="1584841790680" />
+    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1585178692669">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1585178692669" />
+    <state width="1237" height="203" key="GridCell.Tab.0.bottom" timestamp="1585519371256">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="203" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1585519371256" />
+    <state width="1237" height="203" key="GridCell.Tab.0.center" timestamp="1585519371256">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="203" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1585519371256" />
+    <state width="1237" height="203" key="GridCell.Tab.0.left" timestamp="1585519371256">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="203" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1585519371256" />
+    <state width="1237" height="203" key="GridCell.Tab.0.right" timestamp="1585519371256">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="203" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1585519371256" />
+    <state width="1237" height="203" key="GridCell.Tab.1.bottom" timestamp="1585519371256">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="203" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1585519371256" />
+    <state width="1237" height="203" key="GridCell.Tab.1.center" timestamp="1585519371256">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="203" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1585519371256" />
+    <state width="1237" height="203" key="GridCell.Tab.1.left" timestamp="1585519371256">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="203" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1585519371256" />
+    <state width="1237" height="203" key="GridCell.Tab.1.right" timestamp="1585519371256">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="203" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1585519371256" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1584841836937">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1584841836937" />
+    <state x="375" y="233" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1585346659482">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="375" y="233" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1280.680@0.0.1280.680" timestamp="1585346659482" />
+    <state x="314" y="43" width="672" height="678" key="search.everywhere.popup" timestamp="1585347306990">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="314" y="43" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1585347306990" />
+  </component>
+</project>
