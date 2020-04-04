@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<VBox maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Controller">
+   <children>
+      <HBox alignment="TOP_CENTER" prefHeight="40.0" prefWidth="600.0">
+         <children>
+            <Label text="A Game Of Chance ">
+               <font>
+                  <Font name="Britannic Bold" size="36.0" />
+               </font>
+            </Label>
+         </children>
+      </HBox>
+      <HBox prefHeight="57.0" prefWidth="600.0" translateY="20.0">
+         <children>
+            <VBox alignment="CENTER_RIGHT" prefHeight="200.0" prefWidth="100.0" spacing="20.0">
+               <children>
+                  <Label text="Bet: ">
+                     <font>
+                        <Font name="Bernard MT Condensed" size="18.0" />
+                     </font>
+                  </Label>
+               </children>
+            </VBox>
+            <VBox alignment="CENTER" prefHeight="203.0" prefWidth="75.0" spacing="20.0">
+               <children>
+                  <TextField fx:id="txtGetAmount" prefWidth="75.0" promptText="Amount " />
+               </children>
+            </VBox>
+            <VBox alignment="CENTER_LEFT" prefHeight="200.0" prefWidth="100.0" spacing="15.0">
+               <children>
+                  <Button fx:id="btnBet" disable="true" mnemonicParsing="false" onAction="#Bet" prefHeight="24.0" prefWidth="65.0" text="BET" translateX="5.0">
+                     <font>
+                        <Font name="Bodoni MT" size="12.0" />
+                     </font>
+                  </Button>
+               </children>
+            </VBox>
+         </children>
+      </HBox>
+      <HBox prefHeight="305.0" prefWidth="600.0">
+         <children>
+            <VBox alignment="CENTER_RIGHT" prefHeight="305.0" prefWidth="150.0" spacing="100.0">
+               <children>
+                  <Label text="Current Pool: ">
+                     <font>
+                        <Font name="Bookman Old Style Bold" size="16.0" />
+                     </font>
+                  </Label>
+                  <Label text="Wallet: ">
+                     <font>
+                        <Font name="Bookman Old Style Bold" size="16.0" />
+                     </font>
+                  </Label>
+               </children>
+            </VBox>
+            <VBox alignment="CENTER_RIGHT" prefHeight="305.0" prefWidth="10.0" spacing="103.0">
+               <children>
+                  <Label text="\$">
+                     <font>
+                        <Font name="Bookman Old Style Bold" size="14.0" />
+                     </font>
+                  </Label>
+                  <Label text="\$">
+                     <font>
+                        <Font name="Bookman Old Style Bold" size="14.0" />
+                     </font>
+                  </Label>
+               </children>
+            </VBox>
+            <VBox alignment="CENTER_LEFT" prefHeight="305.0" prefWidth="140.0" spacing="100.0">
+               <children>
+                  <Label fx:id="lblCurrentPool" text="0">
+                     <font>
+                        <Font name="Bookman Old Style Bold" size="16.0" />
+                     </font>
+                  </Label>
+                  <Label fx:id="lblWalletAmount" text="15000">
+                     <font>
+                        <Font name="Bookman Old Style Bold" size="16.0" />
+                     </font>
+                  </Label>
+               </children>
+            </VBox>
+            <VBox prefHeight="305.0" prefWidth="300.0">
+               <children>
+                  <HBox alignment="CENTER_LEFT" prefHeight="70.0" prefWidth="300.0" spacing="25.0">
+                     <children>
+                        <Button fx:id="btnSpin" mnemonicParsing="false" onAction="#Spin" text="Spin A Number From 1-10">
+                           <font>
+                              <Font size="11.0" />
+                           </font>
+                        </Button>
+                        <Label fx:id="lblRandomNum" text="0">
+                           <font>
+                              <Font name="Bookman Old Style Bold" size="70.0" />
+                           </font>
+                        </Label>
+                     </children>
+                  </HBox>
+                  <HBox alignment="CENTER" prefHeight="31.0" prefWidth="300.0">
+                     <children>
+                        <Label prefHeight="38.0" prefWidth="198.0" text="Do You Think It Will Be...">
+                           <font>
+                              <Font name="Britannic Bold" size="18.0" />
+                           </font>
+                        </Label>
+                     </children>
+                  </HBox>
+                  <HBox alignment="TOP_CENTER" prefHeight="33.0" prefWidth="300.0" spacing="25.0">
+                     <children>
+                        <Button fx:id="btnHigher" contentDisplay="CENTER" disable="true" mnemonicParsing="false" onAction="#GuessHigher" text="Higher " />
+                        <Button fx:id="btnLower" disable="true" mnemonicParsing="false" onAction="#GuessLower" text="Lower" />
+                        <Button fx:id="btnContinue" disable="true" mnemonicParsing="false" onAction="#Continue" text="Continue" />
+                     </children>
+                  </HBox>
+                  <VBox alignment="CENTER" prefHeight="157.0" prefWidth="300.0" spacing="50.0">
+                     <children>
+                        <Label fx:id="lblWinLose" text="Label" translateY="-25.0" visible="false">
+                           <font>
+                              <Font name="Bodoni MT Black" size="30.0" />
+                           </font>
+                        </Label>
+                        <Button fx:id="btnReset" mnemonicParsing="false" onAction="#Reset" text="Reset" translateY="-55.0" />
+                     </children>
+                  </VBox>
+               </children>
+            </VBox>
+         </children>
+      </HBox>
+   </children>
+</VBox>

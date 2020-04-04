@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Game Of Chance:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Game_Of_Chance_jar</output-path>
+    <root id="archive" name="Game Of Chance.jar">
+      <element id="module-output" name="Game Of Chance" />
+    </root>
+  </artifact>
+</component>
