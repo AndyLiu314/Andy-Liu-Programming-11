@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.control.Tab?>
+<?import javafx.scene.control.TabPane?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<VBox maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Controller">
+   <children>
+      <TabPane prefHeight="497.0" prefWidth="600.0" tabClosingPolicy="UNAVAILABLE">
+        <tabs>
+          <Tab text="Add Friend">
+            <content>
+              <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
+                     <children>
+                        <VBox alignment="CENTER_RIGHT" layoutX="75.0" layoutY="70.0" prefHeight="302.0" prefWidth="150.0" spacing="28.0">
+                           <children>
+                              <Label layoutX="100.0" layoutY="85.0" text="Name: " translateX="-10.0" translateY="-20.0" />
+                              <Label text="Nickname: " translateX="-10.0" translateY="-20.0" />
+                              <Label text="Age:" translateX="-10.0" translateY="-20.0" />
+                              <Label text="Phone Number:" translateX="-10.0" translateY="-20.0" />
+                           </children>
+                        </VBox>
+                        <VBox alignment="CENTER" layoutX="225.0" layoutY="70.0" prefHeight="302.0" prefWidth="150.0" spacing="20.0">
+                           <children>
+                              <TextField fx:id="txtName" layoutX="10.0" layoutY="81.0" promptText="Name" translateY="-20.0" />
+                              <TextField fx:id="txtNickname" promptText="Nickname" translateY="-20.0" />
+                              <TextField fx:id="txtAge" promptText="Age" translateY="-20.0" />
+                              <TextField fx:id="txtPhoneNumber" promptText="Phone Number" translateY="-20.0" />
+                           </children>
+                        </VBox>
+                        <VBox alignment="CENTER_LEFT" layoutX="375.0" layoutY="70.0" prefHeight="302.0" prefWidth="150.0">
+                           <children>
+                              <Button fx:id="btnAddFriend" mnemonicParsing="false" onAction="#AddFriend" text="Add" translateX="15.0" translateY="-20.0" />
+                           </children>
+                        </VBox>
+                        <VBox alignment="CENTER" prefHeight="70.0" prefWidth="600.0">
+                           <children>
+                              <Label text="Friends Book">
+                                 <font>
+                                    <Font name="Britannic Bold" size="37.0" />
+                                 </font>
+                              </Label>
+                           </children>
+                        </VBox>
+                     </children></AnchorPane>
+            </content>
+          </Tab>
+          <Tab text="Display Friends ">
+            <content>
+              <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
+                     <children>
+                        <ListView fx:id="FriendList" layoutX="12.0" layoutY="6.0" onMouseClicked="#displayFriend" prefHeight="361.0" prefWidth="211.0" />
+                        <Label layoutX="300.0" layoutY="14.0" text="Friend Information">
+                           <font>
+                              <Font name="System Bold" size="25.0" />
+                           </font>
+                        </Label>
+                        <Label layoutX="283.0" layoutY="82.0" text="Name:" />
+                        <Label layoutX="291.0" layoutY="99.0" text="Age:" />
+                        <Label fx:id="lblName" layoutX="337.0" layoutY="82.0" />
+                        <Label fx:id="lblAge" layoutX="337.0" layoutY="99.0" />
+                        <Label layoutX="235.0" layoutY="116.0" text="Phone Number:" />
+                        <Label fx:id="lblPhone" layoutX="337.0" layoutY="116.0" />
+                        <Button fx:id="btnRemove" disable="true" layoutX="261.0" layoutY="160.0" mnemonicParsing="false" onAction="#RemoveFriend" text="Remove" />
+                        <Label layoutX="259.0" layoutY="65.0" text=" Nickname: " />
+                        <Label fx:id="lblNickname" layoutX="337.0" layoutY="65.0" />
+                     </children></AnchorPane>
+            </content>
+          </Tab>
+        </tabs>
+      </TabPane>
+   </children>
+</VBox>
